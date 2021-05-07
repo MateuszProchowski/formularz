@@ -1,0 +1,29 @@
+body {
+    background-image: url(images.jfif);
+}
+
+#imie-error {
+    visibility: hidden;
+}
+#nazwisko-error {
+    visibility: hidden;
+}
+#email-error {
+    visibility: hidden;
+}
+#numer-error {
+    visibility: hidden;
+}
+#mess-error {
+    visibility: hidden;
+}
+p {
+    color: white;
+}
+.napis {
+    text-align: center;
+    background-color: grey;
+}
+.start {
+    background-color: black;
+}
